@@ -9,4 +9,4 @@
 ### Timeseries
 [Fast Global Alignment Kernels](https://marcocuturi.net/Papers/cuturi11fast.pdf)
 
-    - [Info](https://marcocuturi.net/GA.html)
+- [Info](https://marcocuturi.net/GA.html)
